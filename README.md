@@ -18,7 +18,7 @@ This project aims to develop predictive models to forecast housing prices using 
 
 ## Project Structure
 The project consists of the following files:
-- `Housing Price Forecasting.ipynb`: Main notebook for data loading, preprocessing, feature engineering, model development, and evaluation.
+- `CS441_Final_project-2.ipynb`: Main notebook for data loading, preprocessing, feature engineering, model development, and evaluation.
 - `train.csv`: Training dataset containing house features and target sale prices.
 - `test.csv`: Test dataset for model evaluation and predictions.
 - `Submission.csv`: Submission file containing predicted sale prices for the test set.
